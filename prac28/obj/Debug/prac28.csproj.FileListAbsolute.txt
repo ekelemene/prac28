@@ -1,0 +1,7 @@
+D:\215\prac28\bin\Debug\prac28.exe.config
+D:\215\prac28\bin\Debug\prac28.exe
+D:\215\prac28\bin\Debug\prac28.pdb
+D:\215\prac28\obj\Debug\prac28.csproj.AssemblyReference.cache
+D:\215\prac28\obj\Debug\prac28.csproj.CoreCompileInputs.cache
+D:\215\prac28\obj\Debug\prac28.exe
+D:\215\prac28\obj\Debug\prac28.pdb
